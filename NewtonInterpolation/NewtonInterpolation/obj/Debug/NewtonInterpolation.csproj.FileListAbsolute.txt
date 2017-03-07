@@ -17,3 +17,9 @@ E:\_программы\_программы\Projects\6 семестр\рпкс\д
 E:\_программы\_программы\Projects\6 семестр\рпкс\дичь\NewtonInterpolation\NewtonInterpolation\bin\Debug\WPFToolkit.dll
 E:\_программы\_программы\Projects\6 семестр\рпкс\дичь\NewtonInterpolation\NewtonInterpolation\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
 E:\_программы\_программы\Projects\6 семестр\рпкс\дичь\NewtonInterpolation\NewtonInterpolation\bin\Debug\WPFToolkit.pdb
+E:\_программы\_программы\Projects\6 семестр\рпкс\дичь\git\NewtonInterpolation\NewtonInterpolation\bin\Debug\NewtonInterpolation.exe.config
+E:\_программы\_программы\Projects\6 семестр\рпкс\дичь\git\NewtonInterpolation\NewtonInterpolation\obj\Debug\NewtonInterpolation.exe
+E:\_программы\_программы\Projects\6 семестр\рпкс\дичь\git\NewtonInterpolation\NewtonInterpolation\obj\Debug\NewtonInterpolation.pdb
+E:\_программы\_программы\Projects\6 семестр\рпкс\дичь\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\bin\Debug\NewtonInterpolation.exe.config
+E:\_программы\_программы\Projects\6 семестр\рпкс\дичь\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\NewtonInterpolation.exe
+E:\_программы\_программы\Projects\6 семестр\рпкс\дичь\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\NewtonInterpolation.pdb

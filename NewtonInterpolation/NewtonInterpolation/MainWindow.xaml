@@ -8,9 +8,10 @@
         xmlns:DVC="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
+
     <Window.Resources>
         <ResourceDictionary>
-            
+
         </ResourceDictionary>
     </Window.Resources>
 
