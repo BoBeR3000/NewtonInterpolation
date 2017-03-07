@@ -23,3 +23,21 @@ E:\_программы\_программы\Projects\6 семестр\рпкс\д
 E:\_программы\_программы\Projects\6 семестр\рпкс\дичь\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\bin\Debug\NewtonInterpolation.exe.config
 E:\_программы\_программы\Projects\6 семестр\рпкс\дичь\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\NewtonInterpolation.exe
 E:\_программы\_программы\Projects\6 семестр\рпкс\дичь\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\NewtonInterpolation.pdb
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\bin\Debug\NewtonInterpolation.exe.config
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\NewtonInterpolation.exe
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\NewtonInterpolation.pdb
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\NewtonInterpolation.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\App.g.cs
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\NewtonInterpolation_MarkupCompile.cache
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\NewtonInterpolation_MarkupCompile.lref
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\bin\Debug\NewtonInterpolation.exe
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\bin\Debug\NewtonInterpolation.pdb
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\bin\Debug\WPFToolkit.dll
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\bin\Debug\WPFToolkit.pdb
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\MainWindow.baml
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\NewtonInterpolation.g.resources
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\NewtonInterpolation.Properties.Resources.resources
+C:\Users\Asus\Source\Repos\NewtonInterpolation\NewtonInterpolation\NewtonInterpolation\obj\Debug\NewtonInterpolation.csproj.GenerateResource.Cache

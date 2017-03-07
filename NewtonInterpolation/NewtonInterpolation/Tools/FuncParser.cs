@@ -50,7 +50,7 @@ namespace NewtonInterpolation.Tools
         public void ParseString(string sourceStr)
         {
             if (sourceStr == null)
-                throw new ArgumentNullException(nameof(sourceStr));
+                throw new ArgumentNullException("sourceStr");
 
             if (sourceStr.Length == 0)
                 throw new ArgumentException("Пустая строка");
